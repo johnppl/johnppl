@@ -53,7 +53,7 @@
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-nilson-8954001b8/)
-[![Gmail](https://img.shields.io/badge/-johnnilson@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnppl321@gmail.com)
+[![Gmail](https://img.shields.io/badge/-email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](johnppl321@gmail.com)
 
 ---
 
